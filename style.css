@@ -7,7 +7,7 @@ body {
 }
 
 ul {
-	color: white;
+	color: black;
 }
 
 .rotate {
@@ -20,15 +20,15 @@ header {
 	text-align: center;
 }
 main {
-	background: black;
+	background: white;
 }
 
 h2 {
-	color: white;
+	color: black;
 }
 
 h3 {
-	color: white;
+	color: black;
 }
 
 footer {
