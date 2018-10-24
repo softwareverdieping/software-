@@ -1,0 +1,25 @@
+body {
+	font-family: Arial;
+	width: 80%;
+	margin: 0 auto;
+	padding: 0 auto;
+	background: purple;
+}
+
+.rotate {
+	transform: rotate(180deg);
+}
+
+header {
+	background: red;
+	border-style: groove;
+	text-align: center;
+}
+main {
+	background: blue;
+}
+
+footer {
+	background: yellow;
+
+}
