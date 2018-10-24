@@ -6,20 +6,33 @@ body {
 	background: purple;
 }
 
+ul {
+	color: white;
+}
+
 .rotate {
 	transform: rotate(180deg);
 }
 
 header {
-	background: red;
+	background: purple;
 	border-style: groove;
 	text-align: center;
 }
 main {
-	background: blue;
+	background: black;
+}
+
+h2 {
+	color: white;
+}
+
+h3 {
+	color: white;
 }
 
 footer {
-	background: yellow;
+	background: purple;
+	color: white;
 
 }
